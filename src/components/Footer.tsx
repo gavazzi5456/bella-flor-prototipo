@@ -19,7 +19,7 @@ export function Footer() {
           <span>{site.notice}</span>
           <p>{site.imageDetail}</p>
           <a
-            href="/image-credits.json"
+            href={`${import.meta.env.BASE_URL}image-credits.json`}
             target="_blank"
             rel="noopener noreferrer"
           >

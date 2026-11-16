@@ -132,7 +132,7 @@ export const site = {
   faqTitle: "Antes de escolher, vale saber.",
   faqKicker: "Dúvidas frequentes",
   footer:
-    "Conceito independente para apresentação privada. A empresa não encomendou nem aprovou este site.",
+    "Conceito independente para apresentação. A empresa não encomendou nem aprovou este site.",
   credits: "Créditos das imagens",
   back: "Voltar ao início",
   skip: "Pular para o conteúdo",
@@ -206,7 +206,7 @@ export const faqs = [
   {
     question: "Posso comprar por este site?",
     answer:
-      "Este é um protótipo privado e não oficial. Você pode explorar categorias e compor uma mensagem de exemplo. Não há compra, reserva ou envio de pedido.",
+      "Este é um protótipo demonstrativo e não oficial. Você pode explorar categorias e compor uma mensagem de exemplo. Não há compra, reserva ou envio de pedido.",
   },
   {
     question: "As fotos mostram produtos da Bella Flor?",

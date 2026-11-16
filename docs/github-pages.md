@@ -26,4 +26,9 @@ Em 16/11/2026, o build passou, os dois testes de mensagem passaram e o teste de 
 
 ## Estado
 
-Publicação pendente: o conector GitHub identifica a conta `gavazzi5456`, mas não oferece criação de repositório ou configuração de Pages. O navegador de publicação solicitou login. Nenhum repositório ou link público foi criado nesta preparação.
+Publicado em 16/11/2026, por solicitação expressa do usuário, sem senha. O workflow concluiu com sucesso e a página pública abriu com o aviso de protótipo visível.
+
+- Site: https://gavazzi5456.github.io/bella-flor-prototipo/
+- Repositório: https://github.com/gavazzi5456/bella-flor-prototipo
+
+A conferência pública identificou o link de créditos ainda apontando à raiz do domínio. O caminho foi corrigido para respeitar a pasta do projeto. As referências a apresentação privada no rodapé e FAQ foram substituídas por apresentação demonstrativa, preservando os avisos de independência.

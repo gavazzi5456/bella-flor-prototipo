@@ -2,6 +2,8 @@
 
 **Protótipo demonstrativo não oficial.** Estudo independente, sem vínculo, encomenda ou aprovação da Bella Flor. A direção visual é sugerida. Não publicar este projeto como site oficial.
 
+Apresentação pública autorizada pelo usuário: https://gavazzi5456.github.io/bella-flor-prototipo/ — sem senha, para avaliação como conceito demonstrativo.
+
 ## Iniciar
 
 Requer Node.js 22.18+ (testado com 26.13.1), npm e, para os testes de navegador, Google Chrome instalado.
